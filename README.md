@@ -15,7 +15,7 @@ A fun and interactive quiz game where players guess the country name based on a 
 ---
 ## 📦 Flag Images
 To play the game, you have to:
-1. [Download `flags.zip`](./flags.zip)
+1. [Download `flags.zip`](./flags of the world.zip)
 2. Extract the contents
 3. Place the extracted folder into the same directory as `main.py`, and make sure it’s named:
 Flags of the world/
