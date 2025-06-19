@@ -1,6 +1,6 @@
 # 🌍 Flag Quiz Game
 
-A fun and interactive quiz game where players guess the country name based on a flag image. Built using Python, Tkinter, PIL, and pandas.
+A fun and interactive quiz game where players guess the country name based on a flag image. Built using Python, glob, Tkinter, PIL, and pandas.
 
 ---
 
