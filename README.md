@@ -35,7 +35,7 @@ Flags of the world/
 ![snip2](https://github.com/user-attachments/assets/b8d55c31-36c4-447d-9a39-5755054287fc)
 
 ## 🙌 Credits
-Created by **Kevin Ehab**
+Created by **Kevin Ehab**,
 Built using:
 
 - Python
