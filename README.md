@@ -24,3 +24,18 @@ A fun and interactive quiz game where players guess the country name based on a 
 - Disables buttons after each selection to prevent multiple answers
 
 ---
+## 📸 Screenshots
+![snip](https://github.com/user-attachments/assets/0470850f-10c1-4034-a35a-5f1d6d7fd656)
+![snip2](https://github.com/user-attachments/assets/b8d55c31-36c4-447d-9a39-5755054287fc)
+
+## 🙌 Credits
+Created by Kevin Ehab
+Built using:
+
+- Python
+
+- Tkinter
+
+- PIL (Pillow)
+
+- pandas
